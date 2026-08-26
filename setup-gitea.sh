@@ -57,3 +57,4 @@ echo "[6] Starting Gitea..."
 echo "Gitea URL: http://localhost:3000"
 
 ./gitea web
+
